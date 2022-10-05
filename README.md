@@ -1,6 +1,6 @@
   👋 Hi, i'm Srikanta kumar Rout
 
-
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 
 
