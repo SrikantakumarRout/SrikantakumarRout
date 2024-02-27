@@ -4,8 +4,8 @@
 
 
 
-- 🔭 I’m intrested in being Full Stack Web Development with Web3
-- 🌱 I’m currently learning Web3 Development
+- 🔭 I’m intrested in being Full Stack java developer
+- 🌱 I’m currently learning full stack Development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
